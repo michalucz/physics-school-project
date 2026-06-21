@@ -31,4 +31,4 @@ I successfully demonstrated the working device and explained the underlying phys
 
 ## Video Demonstration
 
-![Project Demo](video.mp4)
+<video src="video.mp4" controls width="100%"></video>
