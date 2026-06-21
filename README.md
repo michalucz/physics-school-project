@@ -31,4 +31,6 @@ I successfully demonstrated the working device and explained the underlying phys
 
 ## Video Demonstration
 
-<video src="video.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/d1bdf375-e869-4208-93ba-e9253bb5c82c
+
+
