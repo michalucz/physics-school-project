@@ -28,3 +28,7 @@ I successfully demonstrated the working device and explained the underlying phys
 | :---: | :---: |
 | ![Project Front](foto1.jpeg) | ![Soldered Circuit](foto2.jpeg) |
 | ![Sensors Closeup](foto3.jpeg) | ![School Exhibition](foto4.jpeg) |
+
+## Video Demonstration
+
+![Project Demo](video.mp4)
