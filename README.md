@@ -21,3 +21,10 @@ I successfully demonstrated the working device and explained the underlying phys
 * DFPlayer Mini MP3 Player
 * Laser pointer
 * Speaker
+
+## Gallery
+
+| | |
+| :---: | :---: |
+| ![Project Front](foto1.jpeg) | ![Soldered Circuit](foto2.jpeg) |
+| ![Sensors Closeup](foto3.jpeg) | ![School Exhibition](foto4.jpeg) |
